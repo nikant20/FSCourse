@@ -23,4 +23,5 @@ public class PrintDuplicates {
 		String input = "nikant";
 		printDuplicates(input.toCharArray());
 	}
+}
 
