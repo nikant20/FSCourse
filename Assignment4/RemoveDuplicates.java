@@ -2,7 +2,7 @@ package Assignment4;
 
 import java.util.Arrays;
 
-//Q. WAP to remove Duplicates from a String.(Take any String ex with duplicates
+//Q1. WAP to remove Duplicates from a String.(Take any String ex with duplicates
 //character)
 public class RemoveDuplicates {
 	

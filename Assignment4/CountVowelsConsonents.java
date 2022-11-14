@@ -1,5 +1,5 @@
 package Assignment4;
-
+//Q4. WAP to count the number of consonants, vowels, special characters in a String.
 public class CountVowelsConsonents {    
     public static void main(String[] args) {    
                 

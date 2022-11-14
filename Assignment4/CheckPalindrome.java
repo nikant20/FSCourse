@@ -1,7 +1,7 @@
 package Assignment4;
 
 
-//3. WAP to check if “2552” is palindrome or not.
+//Q3. WAP to check if “2552” is palindrome or not.
 public class CheckPalindrome {
 	
 	public static boolean checkPalindrome(char[] str) {

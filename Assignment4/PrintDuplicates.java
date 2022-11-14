@@ -3,7 +3,7 @@ package Assignment4;
 import java.util.HashSet;
 import java.util.Set;
 
-//2. WAP to print Duplicates characters from the String.
+//Q2. WAP to print Duplicates characters from the String.
 public class PrintDuplicates {
 	
 	public static void printDuplicates(char[] str) {
